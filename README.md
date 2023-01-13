@@ -1,4 +1,4 @@
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\# Consumo-de-Api-via-cep-JAVA-SCRIPT
+# Consumo-de-Api-via-cep-JAVA-SCRIPT
 Neste projeto chamado "Consumo de Api" eu faço o consumo da Api via cep E apenas com o número do CEP o programa retorna todos os dados do local, espero que gostem
 
 
