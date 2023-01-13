@@ -8,8 +8,8 @@ Neste projeto chamado "Consumo de Api" eu faço o consumo da Api via cep E apena
 Consuma a  api do  site viacep atraves do metodo fetch e estiize a pagina como preferir
 
 # Resultado
- <img src="Correios Cep - Google Chrome 13_01_2023 
- file:///C:/Users/Allanys/Desktop/cep/Correios%20Cep%20-%20Google%20Chrome%2013_01_2023%2018_27_00.png
+ ![image](https://user-images.githubusercontent.com/110677262/212424700-3f0b8738-3783-4120-ae0a-477e35676f4e.png)
+
 # Linguagens Utilizadas
 para a criaçâo da calculadora utilizei html,css e Java Scrit
 
